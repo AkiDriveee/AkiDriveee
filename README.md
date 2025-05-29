@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm a first-year Software Engineering student diving into the world of coding.  
-Right now, I'm learning **C#**, **Python**, and **JavaScript** — and messing around with game dev and creative coding projects.  
+Right now, I'm learning **C#**, **Python**, and **JavaScript**, and messing around with game dev and creative coding projects.  
 Just getting started, but always up for learning something new or collaborating on cool ideas.
 
 
