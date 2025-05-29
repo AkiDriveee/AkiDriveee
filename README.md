@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi! I’m a first-year Software Engineering student with a growing passion for building creative tech projects. <br>I’m currently learning C#, Python, and JavaScript, and love experimenting with game development and interactive coding. <br>I'm here to learn, share, and collaborate — feel free to check out my projects or connect!
+I'm a first-year Software Engineering student diving into the world of coding.  
+Right now, I'm learning **C#**, **Python**, and **JavaScript** — and messing around with game dev and creative coding projects.  
+Just getting started, but always up for learning something new or collaborating on cool ideas.
 
 
 ## 🌐 Socials:
